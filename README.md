@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ashwinop07
-- 👀 I’m interested in Developing Android Applications 
-- 🌱 I’m currently learning Java Advance
-- 💞️ I’m looking to collaborate on My Upcoming Project for Android
+- 👋 Hi, I’m Ashwin Gurao From India
+- 👀 I’m interested in Exploring the Technological World and Building Something Amazing And UNREAL
+- 🌱 I’m currently Persuing Graduation (Engineering In Computer Science)
+- 💞 I am Looking For the Team With The Mindset of Some Startup
 - 📫 How to reach me Whatsappp me on "8806142307"
 
 <!---
